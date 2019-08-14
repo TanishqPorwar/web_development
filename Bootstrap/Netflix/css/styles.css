@@ -120,8 +120,8 @@ h2 {
 }
 
 .press-img {
-  width: 13%;
-  margin: 20px 20px 50px;
+  width: 75%;
+  /* margin: 20px 20px 50px; */
 }
 
 /**************************Pricing section**********************************/
@@ -199,21 +199,27 @@ h2 {
 
   .navbar {
     z-index: 10;
-    width: 80%;
+    width: 98%;
+    padding: 20px 10px;
+    margin: 0;
     position: fixed;
-    top: 1%;
-    left: auto;
-    right: auto;
+    top: 0;
+    left: 1%;
+    right: 1%;
     background-color: #252525;
   }
 
-  h1 {
-    font-size: 4rem;
+  .nav-link{
+    font-size: 2rem;
+  }
+
+  .big-heading {
+    font-size: 4.5rem;
     padding-bottom: 20px;
   }
 
   .download-button {
-    font-size: 1rem;
+    font-size: 2.5rem;
   }
 
   h3 {
@@ -222,6 +228,16 @@ h2 {
 
   p {
     font-size: 2rem;
+  }
+
+  cite {
+    font-size: 1.5rem;
+  }
+
+  .press-img {
+    width: 50%;
+    padding-top:10px;
+    padding-bottom: 10px;
   }
 
   #pricing {
