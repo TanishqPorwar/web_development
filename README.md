@@ -5,6 +5,7 @@
 1. - [x] [html site](https://tanishqporwar.github.io/web_development/html%20-%20personal%20site)
 2. - [x] [css Site](https://tanishqporwar.github.io/web_development/css%20-%20My%20Site)
 3. - [x] [Bootstrap-Netflix](https://tanishqporwar.github.io/web_development/Bootstrap/Netflix)
+4. - [x] [Js-Dicee](https://tanishqporwar.github.io/web_development/Dicee/dicee.html)
 
 ## Resources
 
@@ -32,3 +33,7 @@
 2. [Snippets for Bootstrap](https://bootsnipp.com/)
 3. [Dribbble](https://dribbble.com/)
 4. [Awwwards](https://www.awwwards.com/)
+
+### IV-Javascript
+1. [HTML Tree generator](https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg)
+2. [JS Property names](https://www.w3schools.com/jsref/dom_obj_style.asp)
